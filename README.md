@@ -1,3 +1,5 @@
+<center><img src="aset\Image20260628122037.jpg"></img></center>
+
 # Dashboard Power BI
 
 Project ini bertujuan untuk membuat dashboard terkait dengan retail Superstore
